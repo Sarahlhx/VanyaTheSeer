@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Slhx89/OneDrive/Documents/Unreal Projects/Vanya_The_Seer/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Slhx89/OneDrive/Documents/Unreal Projects/Vanya_The_Seer/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Plugins/Marketplace/Convai/Content/Demo/ConvaiDemoGM.uasset",
+				"C:/Users/Slhx89/OneDrive/Documents/Unreal Projects/Vanya_The_Seer/Content/MetaHumans/lexa/BP_lexa.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Plugins/Marketplace/Convai/Content/Core/ConvaiBasePlayer.uasset",
+				"C:/Users/Slhx89/OneDrive/Documents/Unreal Projects/Vanya_The_Seer/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Slhx89/OneDrive/Documents/Unreal Projects/Vanya_The_Seer/Content/FirstPerson/Input/Actions/IA_Move.uasset",
+				"C:/Users/Slhx89/OneDrive/Documents/Unreal Projects/Vanya_The_Seer/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/Slhx89/OneDrive/Documents/Unreal Projects/Vanya_The_Seer/Content/FirstPerson/Input/Actions/IA_Move_Key.uasset",
+				"C:/Users/Slhx89/OneDrive/Documents/Unreal Projects/Vanya_The_Seer/Content/NewMapping/NewInputAction.uasset",
+				"C:/Users/Slhx89/OneDrive/Documents/Unreal Projects/Vanya_The_Seer/Content/NewMapping/MY_MoveForward.uasset",
+				"C:/Users/Slhx89/OneDrive/Documents/Unreal Projects/Vanya_The_Seer/Content/NewMapping/MYMapper.uasset",
+				"C:/Users/Slhx89/OneDrive/Documents/Unreal Projects/Vanya_The_Seer/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/Slhx89/OneDrive/Documents/Unreal Projects/Vanya_The_Seer/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"C:/Users/Slhx89/OneDrive/Documents/Unreal Projects/Vanya_The_Seer/Content/FirstPerson/Input/IMC_Default_keyboard.uasset"
+			]
+		}
+	]
+}
